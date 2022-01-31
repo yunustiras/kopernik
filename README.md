@@ -6,8 +6,8 @@ Movie search and watch list builder
 - https://github.com/wdwit/Movie-Bot
 - https://github.com/kaushikjadhav01/Movie-Recommendation-Chatbot
 
-@TODO IMDB Search Movie / TV Series
-@TODO Film Rate - Status 
-@TODO Popular Movie / TV Series Suggestion
-@TODO Export Data - List Builder - IMDB authentication
-@TODO Telegram Suggestion, Rate, Update Status - Search Tool...
+- @TODO IMDB Search Movie / TV Series
+- @TODO Film Rate - Status 
+- @TODO Popular Movie / TV Series Suggestion
+- @TODO Export Data - List Builder - IMDB authentication
+- @TODO Telegram Suggestion, Rate, Update Status - Search Tool...
