@@ -1,6 +1,5 @@
 # kopernik
 Movie search and watch list builder
-- Use AI
 - https://github.com/Uqido/movies-suggestions-bot
 - https://github.com/rjbautis/Movie-Recommendation-Bot
 - https://github.com/wdwit/Movie-Bot
